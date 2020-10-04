@@ -1,1 +1,1 @@
-# implement-Promise-Javascript
+implement promise of js 
